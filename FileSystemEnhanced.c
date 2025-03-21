@@ -54,6 +54,7 @@ int main() {
                 return 1;
             }
 
+            getchar();
             printf("Enter content (type 'exit' to stop):\n");
             while (1) {
                 printf("> ");
